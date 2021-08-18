@@ -1,2 +1,2 @@
 # Pointers1
-Introduction pointers
+Basics to C++
