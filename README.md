@@ -1,3 +1,3 @@
 # C++ tutorials
-Basics to C++
+Basic pointers
 
